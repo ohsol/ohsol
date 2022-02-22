@@ -40,5 +40,5 @@ I want to be a person who continues to grow.🌱
 <h3 align="center">About Me👩‍</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohsol"/>&nbsp
+<a href="https://velog.io/@ohsol"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohsol"/></a>&nbsp
 </p>
